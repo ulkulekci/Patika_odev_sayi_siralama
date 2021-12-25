@@ -1,0 +1,1 @@
+# Patika_odev_sayi_siralama
